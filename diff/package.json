@@ -1,0 +1,21 @@
+{
+  "name": "@babel-eps/diff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Francisco Ryan Tolmasky I",
+    "email": "tolmasky@gmail.com",
+    "url": "https://tolmasky.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/types": "^7.20.7",
+    "@babel/generator": "^7.20.7",
+    "@babel/helper-validator-identifier": "^7.19.1"
+  }
+}
